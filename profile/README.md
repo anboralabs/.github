@@ -2,7 +2,7 @@
 
 - 💬 Ask me about **Java, kotlin, Intellij plugin development**
 
-- 📫 How to reach me **anboralabs@gmail.com**
+- 📫 How to reach me **support@anbora.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
